@@ -1,18 +1,10 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Tong Pu:
+  name        : "Tong Pu"
+  uri         : "https://Jerometongpu.github.io"
+  email       : "12231270@mail.sustech.edu.cn"
+  bio         : "Ph.D. candidate in Statistics at Southern University of Science and Technology"
+  avatar      : "profile.png"
+  twitter     : # Username
+  google_plus : # Username

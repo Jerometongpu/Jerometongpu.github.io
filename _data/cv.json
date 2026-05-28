@@ -1,152 +1,178 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Tong Pu",
+    "email": "12231270@mail.sustech.edu.cn",
+    "phone": "(+86) 186-5294-5160",
+    "website": "https://Jerometongpu.github.io",
+    "summary": "Ph.D. candidate in Statistics at Southern University of Science and Technology, with research interests in systemic risks, stochastic orders, and dependence structures.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Shenzhen",
+      "countryCode": "CN",
+      "region": "Guangdong"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "cFP-tksAAAAJ",
+        "url": "https://scholar.google.com/citations?user=cFP-tksAAAAJ"
+      },
+      {
+        "network": "ResearchGate",
+        "username": "Tong-Pu",
+        "url": "https://www.researchgate.net/profile/Tong-Pu"
       },
       {
         "network": "ORCID",
         "username": "",
         "url": "https://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "Southern University of Science and Technology",
+      "area": "Ph.D. candidate in Mathematics",
+      "studyType": "Ph.D.",
+      "startDate": "2022-09",
+      "endDate": "Present",
+      "gpa": "3.71/4",
+      "courses": [],
+      "supervisor": "Prof. Yiying Zhang"
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "institution": "University of Amsterdam",
+      "area": "Visiting Ph.D. student, Department of Quantitative Economics",
+      "studyType": "Visiting Student",
+      "startDate": "2024-10",
+      "endDate": "2025-09",
       "gpa": null,
-      "courses": []
+      "courses": [],
+      "supervisor": "Prof. Roger J.A. Laeven",
+      "funding": "China Scholarship Council (CSC)"
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "institution": "Qufu Normal University",
+      "area": "M.S. in Statistics",
+      "studyType": "Master",
+      "startDate": "2019-09",
+      "endDate": "2022-07",
+      "gpa": "3.53/4",
+      "courses": [],
+      "supervisor": "Prof. Chuancun Yin",
+      "award": "Outstanding Dissertation Award of Shandong Province"
+    },
+    {
+      "institution": "Qufu Normal University",
+      "area": "B.S. in Mathematics and Applied Mathematics",
+      "studyType": "Bachelor",
+      "startDate": "2014-09",
+      "endDate": "2018-07",
+      "gpa": "80/100",
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Advanced",
+      "keywords": ["Python", "R", "MATLAB"]
+    },
+    {
+      "name": "Research Interests",
+      "level": "",
+      "keywords": ["Systemic risks", "Stochastic orders and preferences", "Dependence structures", "Risk management"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "TOEFL: Reading 27/30, Listening 28/30, Speaking 22/30, Writing 22/30. Total 99/120"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Awards",
+      "keywords": [
+        "National Scholarship of China (SUSTech) | 2025",
+        "BYD Scholarship | 2025",
+        "Third Prize and Outstanding Student Speaker, National Outstanding Graduate Students Workshop | 2024",
+        "Outstanding Dissertation Award of Shandong Province | 2023",
+        "Outstanding Teaching Assistant of SUSTech | 2023 & 2024",
+        "National Scholarship of China (Qufu Normal University) | 2021",
+        "Third Prize, 2020 National Graduate Statistical Modeling Competition of China | 2020",
+        "Honorable Mention, 2017 Mathematical Contest In Modeling | 2017",
+        "Third Prize, The Seventh Mathematics Competition of Chinese College Students | 2015"
+      ]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
+      "name": "On Joint Marginal Expected Shortfall and Associated Contribution Risk Measures",
+      "publisher": "Quantitative Finance",
       "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "website": "https://doi.org/10.1080/14697688.2024.2366963",
+      "summary": "This paper proposes the joint marginal expected shortfall (JMES) to measure systemic risk."
+    },
+    {
+      "name": "Generalized Location-Scale Mixtures of Elliptical Distributions: Definitions and Stochastic Comparisons",
+      "publisher": "Communications in Statistics-Theory and Methods",
+      "releaseDate": "2023-01-01",
+      "website": "https://doi.org/10.1080/03610926.2023.2165407",
+      "summary": "This paper introduces integral stochastic orderings of a class of asymmetric distributions."
+    },
+    {
+      "name": "An Identity for Expectations and Characteristic Function of Matrix Variate Skew-normal Distribution with Applications to Associated Stochastic Orderings",
+      "publisher": "Communications in Mathematics and Statistics",
+      "releaseDate": "2023-01-01",
+      "website": "https://link.springer.com/article/10.1007/s40304-021-00267-2",
+      "summary": "The characteristic function of matrix variate skew normal distribution is derived."
+    },
+    {
+      "name": "On multivariate contribution measures of systemic risk with applications in cryptocurrency market",
+      "publisher": "Probability in the Engineering and Informational Sciences",
+      "releaseDate": "2025-01-01",
+      "website": "https://doi.org/10.1017/S026996482500004X",
+      "summary": "This paper investigates multivariate contribution measures of systemic risk in cryptocurrency markets."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "Teaching Assistant",
+      "institution": "Southern University of Science and Technology",
+      "date": "2022-09",
+      "role": "Teaching Assistant",
+      "courses": [
+        "Probability, Fall 2022",
+        "Probability and Statistics, Fall 2022 and Fall 2023",
+        "Non-Life Insurance Mathematics, Fall 2022",
+        "Financial Mathematics (Stochastic Calculus), Fall 2022"
+      ],
+      "description": "Teaching assistant for undergraduate courses in mathematics and statistics."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Teaching Assistant",
+      "institution": "Qufu Normal University",
+      "date": "2020-09",
+      "role": "Teaching Assistant",
+      "courses": [
+        "Advanced Probability, Fall 2020"
+      ],
+      "description": "Teaching assistant for Advanced Probability course."
+    },
+    {
+      "course": "Teacher",
+      "institution": "Jieshi High School (Private High School)",
+      "date": "2018-07",
+      "endDate": "2019-09",
+      "role": "Teacher",
+      "courses": [],
+      "description": "Full-time mathematics teacher at Jieshi High School, Rizhao, Shandong."
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }

@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Generalized Location-Scale Mixtures of Elliptical Distributions: Definitions and Stochastic Comparisons"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+permalink: /publication/2023-glspm
+excerpt: 'This paper introduces integral stochastic orderings of a class of asymmetric distributions.'
+date: 2023-01-01
+venue: 'Communications in Statistics-Theory and Methods'
+paperurl: 'https://doi.org/10.1080/03610926.2023.2165407'
+citation: 'Pu, T., Zhang, Y., & Yin, C. (2023). &quot;Generalized Location-Scale Mixtures of Elliptical Distributions: Definitions and Stochastic Comparisons.&quot; <i>Communications in Statistics-Theory and Methods</i>, 53(11), 3851-3875.'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+In this paper, the authors introduce integral stochastic orderings of a class of asymmetric distributions. This class of distributions extends from elliptical location-scale mixture distributions and includes many useful special cases. The authors derive some necessary and sufficient conditions for comparing the random vectors from this class of distributions.

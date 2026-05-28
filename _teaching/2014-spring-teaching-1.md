@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant at Southern University of Science and Technology"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Teaching Assistant"
+permalink: /teaching/2022-fall-sustech
+venue: "Southern University of Science and Technology"
+date: 2022-09-01
+location: "Shenzhen, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+## Courses
 
-Heading 1
-======
+- **Probability**, Fall 2022
+- **Probability and Statistics**, Fall 2022 and Fall 2023
+- **Non-Life Insurance Mathematics**, Fall 2022
+- **Financial Mathematics (Stochastic Calculus)**, Fall 2022
 
-Heading 2
-======
-
-Heading 3
-======
+Some of the teaching videos can be found at [Bilibili Channel](https://space.bilibili.com/12720916).

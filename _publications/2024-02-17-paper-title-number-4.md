@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "On Joint Marginal Expected Shortfall and Associated Contribution Risk Measures"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+category: manuscripts
+permalink: /publication/2024-02-17-jmes
+excerpt: 'This paper proposes the joint marginal expected shortfall (JMES) to measure systemic risk.'
 date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+venue: 'Quantitative Finance'
+paperurl: 'https://doi.org/10.1080/14697688.2024.2366963'
+citation: 'Pu, T., Zhang, Y., & Zhang, Y. (2024). &quot;On Joint Marginal Expected Shortfall and Associated Contribution Risk Measures.&quot; <i>Quantitative Finance</i>, 24(7), 889-908.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper proposes another new type of systemic risk measure, called the joint marginal expected shortfall (JMES), to measure whether the MES of one entity's risk-taking adds to another one or the overall risk conditioned on the event that the entity is already in some specified distress level.
