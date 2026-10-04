@@ -13,7 +13,7 @@ Current Appointment
 ======
 * **Lecturer**, School of Undergraduate Education, Shenzhen Polytechnic University
   * Shenzhen, Guangdong, People's Republic of China
-  * Email: [putong@szpu.edu.cn](mailto:putong@szpu.edu.cn)
+  * Email: putong at szpu dot edu dot cn
 
 Education
 ======

@@ -54,6 +54,6 @@ B.S. in Mathematics and Applied Mathematics | 09/2014 – 07/2018
 
 ## Contact
 
-- **Email**: [putong@szpu.edu.cn](mailto:putong@szpu.edu.cn)
+- **Email**: putong at szpu dot edu dot cn
 - **ResearchGate**: [ResearchGate@Tong-Pu](https://www.researchgate.net/profile/Tong-Pu)
 - **Google Scholar**: [Profile](https://scholar.google.com/citations?user=cFP-tksAAAAJ)
