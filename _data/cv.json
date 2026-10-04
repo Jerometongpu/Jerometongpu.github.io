@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Tong Pu",
-    "email": "12231270@mail.sustech.edu.cn",
+    "email": "putong@szpu.edu.cn",
     "phone": "(+86) 186-5294-5160",
     "website": "https://Jerometongpu.github.io",
-    "summary": "Ph.D. candidate in Statistics at Southern University of Science and Technology, with research interests in systemic risks, stochastic orders, and dependence structures.",
+    "summary": "Lecturer in the School of Undergraduate Education at Shenzhen Polytechnic University, Shenzhen, Guangdong, People's Republic of China, with research interests in systemic risks, stochastic orders, dependence structures, and ambiguity.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -30,17 +30,24 @@
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "position": "Lecturer",
+      "company": "School of Undergraduate Education, Shenzhen Polytechnic University",
+      "summary": "Current appointment in Shenzhen, Guangdong, People's Republic of China."
+    }
+  ],
   "education": [
     {
       "institution": "Southern University of Science and Technology",
-      "area": "Ph.D. candidate in Mathematics",
+      "area": "Ph.D. in Mathematics",
       "studyType": "Ph.D.",
       "startDate": "2022-09",
-      "endDate": "Present",
+      "endDate": "2026-07",
       "gpa": "3.71/4",
       "courses": [],
-      "supervisor": "Prof. Yiying Zhang"
+      "supervisor": "Prof. Yiying Zhang",
+      "award": "Outstanding Graduate of School of Science, SUSTech"
     },
     {
       "institution": "University of Amsterdam",
@@ -78,12 +85,22 @@
     {
       "name": "Programming Languages",
       "level": "Advanced",
-      "keywords": ["Python", "R", "MATLAB"]
+      "keywords": [
+        "Python",
+        "R",
+        "MATLAB"
+      ]
     },
     {
       "name": "Research Interests",
       "level": "",
-      "keywords": ["Systemic risks", "Stochastic orders and preferences", "Dependence structures", "Risk management"]
+      "keywords": [
+        "Systemic risks",
+        "Stochastic orders and preferences",
+        "Dependence structures",
+        "Risk management",
+        "Ambiguity and related models"
+      ]
     }
   ],
   "languages": [
@@ -111,32 +128,96 @@
   "references": [],
   "publications": [
     {
-      "name": "On Joint Marginal Expected Shortfall and Associated Contribution Risk Measures",
-      "publisher": "Quantitative Finance",
-      "releaseDate": "2024-02-17",
-      "website": "https://doi.org/10.1080/14697688.2024.2366963",
-      "summary": "This paper proposes the joint marginal expected shortfall (JMES) to measure systemic risk."
+      "name": "Stochastic dominance for claim spacings from heterogeneous insurance portfolios",
+      "publisher": "Statistical Theory and Related Fields",
+      "releaseDate": "2026-09-29",
+      "publicationYear": 2026,
+      "website": "https://doi.org/10.1080/24754269.2026.2733597",
+      "authors": [
+        "Tong Pu",
+        "Yaodi Yong",
+        "Jiandong Zhang",
+        "Yiying Zhang"
+      ],
+      "doi": "10.1080/24754269.2026.2733597",
+      "citation": "Pu, T., Yong, Y., Zhang, J., & Zhang, Y. (2026). &quot;Stochastic dominance for claim spacings from heterogeneous insurance portfolios.&quot; <i>Statistical Theory and Related Fields</i>. Advance online publication. https://doi.org/10.1080/24754269.2026.2733597",
+      "summary": "The difference between the largest and smallest claims, and the gap between the two smallest claims, reveal aspects of portfolio dispersion that aggregate losses can hide. This paper develops stochastic comparisons for these quantities in insurance portfolios whose policies differ in claim probabilities and severities. Its results explain how heterogeneity and dependence affect claim ranges and local claim gaps under explicit model conditions."
     },
     {
-      "name": "Generalized Location-Scale Mixtures of Elliptical Distributions: Definitions and Stochastic Comparisons",
-      "publisher": "Communications in Statistics-Theory and Methods",
-      "releaseDate": "2023-01-01",
-      "website": "https://doi.org/10.1080/03610926.2023.2165407",
-      "summary": "This paper introduces integral stochastic orderings of a class of asymmetric distributions."
-    },
-    {
-      "name": "An Identity for Expectations and Characteristic Function of Matrix Variate Skew-normal Distribution with Applications to Associated Stochastic Orderings",
-      "publisher": "Communications in Mathematics and Statistics",
-      "releaseDate": "2023-01-01",
-      "website": "https://link.springer.com/article/10.1007/s40304-021-00267-2",
-      "summary": "The characteristic function of matrix variate skew normal distribution is derived."
+      "name": "Vulnerability-Conditional Systemic Risk Measures: Evidence from Cryptocurrency Markets",
+      "publisher": "Risk Sciences",
+      "releaseDate": "2026-09-23",
+      "publicationYear": 2026,
+      "website": "https://doi.org/10.1016/j.risk.2026.100066",
+      "authors": [
+        "Tong Pu",
+        "Yunran Wei",
+        "Yiying Zhang"
+      ],
+      "doi": "10.1016/j.risk.2026.100066",
+      "citation": "Pu, T., Wei, Y., & Zhang, Y. (2026). &quot;Vulnerability-Conditional Systemic Risk Measures: Evidence from Cryptocurrency Markets.&quot; <i>Risk Sciences</i>. Advance online publication. https://doi.org/10.1016/j.risk.2026.100066",
+      "summary": "This paper studies an asset’s tail risk when at least one other market participant is in distress. It introduces a vulnerability-conditional expected-shortfall measure and distinguishes total conditional risk from absolute and relative spillover contributions. An application to five cryptocurrencies illustrates the measures and evaluates their calibration through backtesting."
     },
     {
       "name": "On multivariate contribution measures of systemic risk with applications in cryptocurrency market",
       "publisher": "Probability in the Engineering and Informational Sciences",
-      "releaseDate": "2025-01-01",
+      "releaseDate": "2025-03-31",
+      "publicationYear": 2025,
       "website": "https://doi.org/10.1017/S026996482500004X",
-      "summary": "This paper investigates multivariate contribution measures of systemic risk in cryptocurrency markets."
+      "authors": [
+        "Limin Wen",
+        "Junxue Li",
+        "Tong Pu",
+        "Yiying Zhang"
+      ],
+      "doi": "10.1017/S026996482500004X",
+      "citation": "Wen, L., Li, J., Pu, T., & Zhang, Y. (2025). &quot;On multivariate contribution measures of systemic risk with applications in cryptocurrency market.&quot; <i>Probability in the Engineering and Informational Sciences</i>, 39(4), 551-578.",
+      "summary": "This paper asks how to compare an asset’s relative exposure when several other assets are distressed together. It develops multivariate contribution ratios with different benchmarks and applies them to Bitcoin, Ethereum and Monero to distinguish relative spillovers from absolute loss levels."
+    },
+    {
+      "name": "On joint marginal expected shortfall and associated contribution risk measures",
+      "publisher": "Quantitative Finance",
+      "releaseDate": "2024-07-04",
+      "publicationYear": 2024,
+      "website": "https://doi.org/10.1080/14697688.2024.2366963",
+      "authors": [
+        "Tong Pu",
+        "Yifei Zhang",
+        "Yiying Zhang"
+      ],
+      "doi": "10.1080/14697688.2024.2366963",
+      "citation": "Pu, T., Zhang, Y., & Zhang, Y. (2024). &quot;On joint marginal expected shortfall and associated contribution risk measures.&quot; <i>Quantitative Finance</i>, 24(7), 889-908.",
+      "summary": "This paper examines the additional tail losses faced by a market when both it and another market are under stress. It develops joint marginal expected shortfall and corresponding absolute and relative contribution measures, with comparison results and an application to international stock indices."
+    },
+    {
+      "name": "Generalized location-scale mixtures of elliptical distributions: Definitions and stochastic comparisons",
+      "publisher": "Communications in Statistics - Theory and Methods",
+      "releaseDate": "2023-01-23",
+      "publicationYear": 2024,
+      "website": "https://doi.org/10.1080/03610926.2023.2165407",
+      "authors": [
+        "Tong Pu",
+        "Yiying Zhang",
+        "Chuancun Yin"
+      ],
+      "doi": "10.1080/03610926.2023.2165407",
+      "citation": "Pu, T., Zhang, Y., & Yin, C. (2024). &quot;Generalized location-scale mixtures of elliptical distributions: Definitions and stochastic comparisons.&quot; <i>Communications in Statistics - Theory and Methods</i>, 53(11), 3851-3875.",
+      "summary": "A common mixing construction brings several asymmetric extensions of elliptical models into one framework for comparing multivariate risks. The resulting parameter criteria yield comparisons for aggregate insurance losses and maximum claim amounts, as well as an extension of Slepian’s inequality and Gini-index results in low dimensions."
+    },
+    {
+      "name": "An Identity for Expectations and Characteristic Function of Matrix Variate Skew-normal Distribution with Applications to Associated Stochastic Orderings",
+      "publisher": "Communications in Mathematics and Statistics",
+      "releaseDate": "2022-09-27",
+      "publicationYear": 2023,
+      "website": "https://doi.org/10.1007/s40304-021-00267-2",
+      "authors": [
+        "Tong Pu",
+        "Narayanaswamy Balakrishnan",
+        "Chuancun Yin"
+      ],
+      "doi": "10.1007/s40304-021-00267-2",
+      "citation": "Pu, T., Balakrishnan, N., & Yin, C. (2023). &quot;An Identity for Expectations and Characteristic Function of Matrix Variate Skew-normal Distribution with Applications to Associated Stochastic Orderings.&quot; <i>Communications in Mathematics and Statistics</i>, 11(3), 629-647.",
+      "summary": "The paper studies how changes in location, scale, and skewness affect stochastic comparisons of matrix-valued asymmetric risks. A characteristic-function formula and an expectation-difference identity connect model parameters to six orders describing size, variability, joint tail probabilities, and dependence."
     }
   ],
   "presentations": [],

@@ -249,7 +249,7 @@ def parse_skills(skills_text):
     return skills_entries
 
 def parse_publications(pub_dir):
-    """Parse publications from the _publications directory."""
+    """Parse published articles from the _publications directory."""
     publications = []
     
     if not os.path.exists(pub_dir):
@@ -263,19 +263,26 @@ def parse_publications(pub_dir):
         front_matter_match = re.match(r'^---\s*(.*?)\s*---', content, re.DOTALL)
         if front_matter_match:
             front_matter = yaml.safe_load(front_matter_match.group(1))
+            if front_matter.get('publication_status') != 'published':
+                continue
+            doi = front_matter.get('doi', '')
             
             # Extract publication details
             pub_entry = {
                 "name": front_matter.get('title', ''),
                 "publisher": front_matter.get('venue', ''),
                 "releaseDate": front_matter.get('date', ''),
-                "website": front_matter.get('paperurl', ''),
+                "publicationYear": front_matter.get('publication_year', ''),
+                "website": f"https://doi.org/{doi}" if doi else front_matter.get('paperurl', ''),
+                "authors": front_matter.get('authors', []),
+                "doi": doi,
+                "citation": front_matter.get('citation', ''),
                 "summary": front_matter.get('excerpt', '')
             }
             
             publications.append(pub_entry)
     
-    return publications
+    return sorted(publications, key=lambda entry: (str(entry['publicationYear']), str(entry['releaseDate'])), reverse=True)
 
 def parse_talks(talks_dir):
     """Parse talks from the _talks directory."""

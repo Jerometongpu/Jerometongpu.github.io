@@ -9,11 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+Current Appointment
+======
+* **Lecturer**, School of Undergraduate Education, Shenzhen Polytechnic University
+  * Shenzhen, Guangdong, People's Republic of China
+  * Email: [putong@szpu.edu.cn](mailto:putong@szpu.edu.cn)
+
 Education
 ======
-* **Ph.D. candidate in Mathematics**, Southern University of Science and Technology, 09/2022 – Present
+* **Ph.D. in Mathematics**, Southern University of Science and Technology, 09/2022 – 07/2026
   * GPA: 3.71/4, Rank: 3/21
   * Supervised by Prof. Yiying Zhang
+  * Outstanding Graduate of School of Science, SUSTech
 
 * **Visiting Ph.D. student**, University of Amsterdam, 10/2024 – 09/2025
   * Department of Quantitative Economics
@@ -41,7 +48,8 @@ Selected Awards
 
 Publications
 ======
-<ul>{% for post in site.publications reversed %}
+{% assign publications = site.publications | where: "publication_status", "published" | sort: "publication_year" | reverse %}
+<ul>{% for post in publications %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
@@ -54,7 +62,7 @@ Teaching
 Skills and Expertise
 ======
 * **Programming Languages:** Python, R, MATLAB (ranked by proficiency)
-* **Research Interests:** Systemic risks, stochastic orders and preferences, dependence structures
+* **Research Interests:** Systemic risks, stochastic orders and preferences, dependence structures, ambiguity and related models
 
 Language Proficiency
 ======

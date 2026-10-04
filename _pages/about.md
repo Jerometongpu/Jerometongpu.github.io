@@ -7,14 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the Department of Mathematics at [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/), Shenzhen, China. I am currently visiting the Department of Quantitative Economics at [University of Amsterdam](https://www.uva.nl/en) as a visiting Ph.D. student, funded by the China Scholarship Council (CSC). I am supervised by Professor [Yiying Zhang](mailto:zhangyy3@sustech.edu.cn) at SUSTech and Professor [Roger J.A. Laeven](mailto:R.J.A.Laeven@uva.nl) at University of Amsterdam.
+I am a Lecturer in the School of Undergraduate Education at Shenzhen Polytechnic University, Shenzhen, Guangdong, People's Republic of China.
 
 ## Education
 
 **Southern University of Science and Technology**  
-Ph.D. candidate in Mathematics | 09/2022 – Present  
+Ph.D. in Mathematics | 09/2022 – 07/2026
 - GPA: 3.71/4, Rank: 3/21  
 - Supervised by Prof. Yiying Zhang
+- Outstanding Graduate of School of Science, SUSTech
 
 **University of Amsterdam**  
 Visiting Ph.D. student | 10/2024 – 09/2025  
@@ -37,6 +38,7 @@ B.S. in Mathematics and Applied Mathematics | 09/2014 – 07/2018
 - Stochastic orders and preferences
 - Dependence structures
 - Risk management
+- Ambiguity and related models
 
 ## Selected Awards
 
@@ -52,6 +54,6 @@ B.S. in Mathematics and Applied Mathematics | 09/2014 – 07/2018
 
 ## Contact
 
-- **Email**: [12231270@mail.sustech.edu.cn](mailto:12231270@mail.sustech.edu.cn)
+- **Email**: [putong@szpu.edu.cn](mailto:putong@szpu.edu.cn)
 - **ResearchGate**: [ResearchGate@Tong-Pu](https://www.researchgate.net/profile/Tong-Pu)
 - **Google Scholar**: [Profile](https://scholar.google.com/citations?user=cFP-tksAAAAJ)

@@ -84,6 +84,9 @@
           {% if education.gpa %}
           <div class="cv-item-detail">GPA: {{ education.gpa }}</div>
           {% endif %}
+          {% if education.award %}
+          <div class="cv-item-detail">{{ education.award }}</div>
+          {% endif %}
           {% if education.courses.size > 0 %}
           <div class="cv-item-detail">
             <strong>Courses:</strong> {{ education.courses | join: ", " }}
@@ -154,7 +157,7 @@
       <li class="cv-item">
         <div class="cv-item-header">
           <div class="cv-item-title">{{ publication.name }}</div>
-          <div class="cv-item-date">{{ publication.releaseDate | slice: 0, 4 }}</div>
+          <div class="cv-item-date">{% if publication.publicationYear %}{{ publication.publicationYear }}{% else %}{{ publication.releaseDate | slice: 0, 4 }}{% endif %}</div>
         </div>
         <div class="cv-item-content">
           <div class="cv-item-subtitle">{{ publication.publisher }}</div>

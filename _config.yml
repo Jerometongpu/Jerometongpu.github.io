@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Tong Pu"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. candidate in Statistics"
-  location         : "Shenzhen, China"
-  employer         : "Southern University of Science and Technology"
+  bio              : "Lecturer, School of Undergraduate Education"
+  location         : "Shenzhen, Guangdong, People's Republic of China"
+  employer         : "Shenzhen Polytechnic University"
   uri              : # URL
-  email            : "12231270@mail.sustech.edu.cn" 
+  email            : "putong@szpu.edu.cn"
 
   # Academic websites
   academia         : # URL

@@ -1,0 +1,12 @@
+{% include base_path %}
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/ScholarlyArticle">
+    <h2 class="archive__item-title" itemprop="headline">
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+    </h2>
+    <p>Published in <i>{{ post.venue }}</i>, {{ post.publication_year }}.</p>
+    <div class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</div>
+    <p class="wordwrap">Recommended citation: {{ post.citation }}</p>
+  </article>
+</div>

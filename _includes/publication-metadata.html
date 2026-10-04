@@ -1,0 +1,7 @@
+<div class="publication-metadata">
+  <p><strong>Authors:</strong> {{ page.authors | join: ", " }}</p>
+  <p class="wordwrap"><strong>DOI:</strong> <a href="https://doi.org/{{ page.doi }}">{{ page.doi }}</a></p>
+  {% if page.online_date %}
+    <p><strong>Published online:</strong> {{ page.online_date | date: "%B %d, %Y" }}</p>
+  {% endif %}
+</div>
